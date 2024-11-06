@@ -7,6 +7,7 @@ import os
 import os
 import ctypes
 import ast
+import requests
 
 errir = print(f"{Fore.WHITE} [{Fore.RED}ERROR{Fore.WHITE}]{Fore.RESET} ")
 sucess = print(f"{Fore.WHITE} [{Fore.GREEN}SUCCESS{Fore.WHITE}]{Fore.RESET} ")
