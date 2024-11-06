@@ -9,8 +9,6 @@ import os
 import ctypes
 import ast
 
-ctypes.windll.kernel32.SetConsoleTitleW(f'11gn PLAYFAB SPAMMER | V1')
-
 errir = print(f"{Fore.WHITE} [{Fore.RED}ERROR{Fore.WHITE}]{Fore.RESET} ")
 sucess = print(f"{Fore.WHITE} [{Fore.GREEN}SUCCESS{Fore.WHITE}]{Fore.RESET} ")
 consol = print(f"{Fore.WHITE} [{Fore.BLUE}CONSOLE{Fore.WHITE}]{Fore.RESET} ")
