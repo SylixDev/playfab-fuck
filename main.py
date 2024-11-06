@@ -169,9 +169,3 @@ pref = input(f"{Fore.WHITE}[{Fore.BLUE}CONSOLE{Fore.WHITE}]{Fore.RESET} Custom I
 cacheProxy = False
 main(titleid, pref, cacheProxy)
 spamming = True
-
-localhost:~/playfab-fuck# python3 main.py
-Traceback (most recent call last):
-  File "/root/playfab-fuck/main.py", line 12, in <module>
-    ctypes.windll.kernel32.SetConsoleTitleW(f'11gn PLAYFAB SPAMMER | V1')
-AttributeError: module 'ctypes' has no attribute 'windll'
